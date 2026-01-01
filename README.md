@@ -56,37 +56,64 @@ python -m código
 ## 📘 Exercícios Implementados
 ### ✅ 1. Concatenando Dados 🐾
 
-Recebe dois dados do usuário e concatena em uma única string.
+**Descrição:** Vamos receber dois dados diferentes do usuário e concatena-los em uma única string?!
 
-**Conceitos:**
+**O que aprenderemos?**
 
-* Strings
-* Entrada de dados
+* Manipulação de Strings (string)
 * Concatenação
+* Entrada de dados
+* Utilização eficiente do Github Copilot
 
 ### ✅ 2. Repetindo Textos ✏️
 
-Recebe um texto e um número inteiro e repete a string conforme o valor informado.
+**Descrição:** Agora vamos solicitar uma string e um número inteiro como entrada. Depois teremos que retornar a string repetida o número de vezes informado.
 
-**Conceitos:**
-* Strings
-* Inteiros
-* Operador de repetição (*)
+**O que aprenderemos?**
+
+* Manipulação de Strings (string)
+* Números Inteiros (int)
+* Múltiplas repetições
+* Entrada de dados
+* Aproveitar as sugestões do Github Copilot
 
 ### ✅ 3. Operações Matemáticas Simples 📐
 
-Recebe dois números e permite realizar operações básicas.
+**Descrição:** Vamos solicitar como entrada dois números e depois vamos realizar uma operação simples entre eles.
 
-**Operações:**
+**O que aprenderemos?**
 
-* Soma
-* Subtração
-* Multiplicação
-* Divisão
-**Conceitos:**
+* Operações Matemáticas Básicas
+* Entrada de dados
+* Utilização eficiente do Github Copilot
+* 
+### ✅ 4 - Verificando Números Pares e Ímpares 🧮
+**Descrição:** Como entrada, receber um número inteiro e verificar se ele é par ou ímpar.
 
-* Tipos numéricos (int, float)
-* Condicionais (if/elif/else)
+**O que aprenderemos?**
+
+* Utilização de condicionais em Python (if, else) para realizar verificações.
+* Introdução ao conceito de operador de módulo (%) para verificar se um número é par ou ímpar.
+* Exploração do uso de uma ferramenta de IA, como o Github Copilot, para otimizar a estrutura do código.
+
+### ✅ 5 - Calculando Média de Notas 📚
+**Descrição:** Calcular a média de três notas fornecidas na entrada do usuário. Uma dica é: Utilizar operadores aritméticos para realizar o cálculo da média.
+
+**O que aprenderemos?**
+
+* Uso de variáveis para armazenar dados fornecidos pelo usuário.
+* Aplicação de operadores aritméticos (+, /) para calcular a média de um conjunto de valores.
+* Prática na solicitação e manipulação de entrada do usuário.
+
+### ✅ 6 - Verificando Palíndromos 🔄
+**Descrição:** Testar se uma palavra é um palíndromo?! Uma dica é: Utilize conceitos de manipulação de strings para inverter a palavra e comparar com a original.
+
+**O que aprenderemos?**
+
+* Manipulação de strings em Python, especialmente invertendo uma string.
+* Compreensão de como comparar a string original com sua versão invertida para determinar se é um palíndromo.
+* Introdução ao conceito de palíndromos e sua aplicação em problemas de programação.
+
 ## 🤖 Uso de IA como Copiloto
 
 Durante o desenvolvimento do projeto, ferramentas de IA podem ser utilizadas para:
