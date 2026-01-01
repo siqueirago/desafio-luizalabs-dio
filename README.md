@@ -37,10 +37,11 @@ git clone <URL_DO_REPOSITORIO>
 cd DESAFIO-LUIZALABS-DIO
 ````
 ### 2️⃣ (Opcional) Crie um ambiente virtual
+````
 python -m venv .venv
 ````
-Ative o ambiente:
-````
+**Ative o ambiente:**
+
 * **Windows**
 ````
 .venv\Scripts\activate
