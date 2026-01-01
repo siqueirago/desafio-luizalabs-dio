@@ -25,8 +25,7 @@ DESAFIO-LUIZALABS-DIO/
 │ ├── ex01_concatenando_dados.py
 │ ├── ex02_repetindo_texto.py
 │ └── ex03_operacoes_matematicas.py
-  ...
-│
+│  ...
 └── README.md
 ````
 
