@@ -21,11 +21,14 @@ DESAFIO-LUIZALABS-DIO/
 │ ├── __init__.py
 │ ├── menu.py
 │ └── exercicios/
-│ ├── __init__.py
-│ ├── ex01_concatenando_dados.py
-│ ├── ex02_repetindo_texto.py
-│ └── ex03_operacoes_matematicas.py
-│  ...
+│     ├── __init__.py
+│     ├── ex01_concatenando_dados.py
+│     ├── ex02_repetindo_texto.py
+│     ├── ex03_operacoes_matematicas.py
+│     ├── ex04_par_ou_impar.py
+│     ├── ex05_calcular_media.py
+│     └── ex06_palindromos.py
+│
 └── README.md
 ````
 
@@ -53,6 +56,19 @@ source .venv/bin/activate
 ````
 python -m código
 ````
+## 🧭 Menu Interativo (CLI)
+
+O projeto possui um menu interativo em linha de comando (CLI) que centraliza a execução de todos os exercícios.
+
+O menu foi desenvolvido com foco em experiência do usuário, mesmo em ambiente de terminal, oferecendo:
+
+* Navegação simples e intuitiva
+* Limpeza da tela a cada ação
+* Feedback visual após a execução de cada exercício
+* Retorno controlado ao menu principal
+
+Dessa forma, o usuário pode escolher qual exercício deseja executar sem precisar rodar arquivos individuais.
+
 ## 📘 Exercícios Implementados
 ### ✅ 1. Concatenando Dados 🐾
 
@@ -86,7 +102,7 @@ python -m código
 * Operações Matemáticas Básicas
 * Entrada de dados
 * Utilização eficiente do Github Copilot
-* 
+  
 ### ✅ 4 - Verificando Números Pares e Ímpares 🧮
 **Descrição:** Como entrada, receber um número inteiro e verificar se ele é par ou ímpar.
 
@@ -124,6 +140,18 @@ Durante o desenvolvimento do projeto, ferramentas de IA podem ser utilizadas par
 * Apoiar o raciocínio lógico
 
 ⚠️ **Importante:** a IA é um apoio, não um substituto do aprendizado
+
+## 🧩 Decisões de Projeto
+
+Algumas decisões foram tomadas com foco em boas práticas e visão de longo prazo, mesmo sendo um projeto educacional:
+
+Uso de menu interativo (CLI) para centralizar a execução
+* Separação de responsabilidades em módulos
+* Estrutura de pastas inspirada em projetos reais
+* Código legível, simples e fácil de evoluir
+* Uso consciente de IA como apoio ao aprendizado
+
+Essas escolhas tornam o projeto mais próximo de cenários reais de desenvolvimento.
 
 ## 📌 Conclusão
 
